@@ -1242,4 +1242,4 @@ class Primbon {
 
 }
 
-module.exports = Primbon;
+exports.Primbon = Primbon;
